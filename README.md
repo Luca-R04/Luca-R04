@@ -8,6 +8,7 @@ I am a Junior Developer from the Netherlands, Currently in my second year of Com
 #### Frameworks: 
 [![svelte](https://img.shields.io/badge/svelte-ff3e00.svg?&style=for-the-badge&logo=svelte&logoColor=white)](https://svelte.dev)
 [![vue.js](https://img.shields.io/badge/vue.js-327959.svg?&style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org)
+[![Angular](https://img.shields.io/static/v1?style=for-the-badge&message=Angular&color=DD0031&logo=Angular&logoColor=FFFFFF&label=)](https://angular.io/)
 [![aspdotnet](https://img.shields.io/badge/asp.net-4d29c9.svg?&style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/en-us/apps/aspnet)
 [![tailwindcss](https://img.shields.io/badge/tailwindcss-38bdf8.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 
@@ -22,7 +23,7 @@ I am a Junior Developer from the Netherlands, Currently in my second year of Com
 [![Nx](https://img.shields.io/static/v1?style=for-the-badge&message=Nx&color=143055&logo=Nx&logoColor=FFFFFF&label=)](https://nx.dev/)
 [![git](https://img.shields.io/badge/git-F44D27.svg?&style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 
-#### Environment:
+#### Environments:
 [![vscode](https://img.shields.io/badge/vscode-22A6F1.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com)
 [![Visual Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio&color=5C2D91&logo=Visual+Studio&logoColor=FFFFFF&label=)](https://visualstudio.microsoft.com/)
 [![Android Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Android+Studio&color=222222&logo=Android+Studio&logoColor=3DDC84&label=)](https://developer.android.com/studio)
