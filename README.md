@@ -12,9 +12,10 @@ I am a Junior Developer from the Netherlands, Currently in my second year of Com
 [![tailwindcss](https://img.shields.io/badge/tailwindcss-38bdf8.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 
 #### Databases:
-[![firebase](https://img.shields.io/badge/firebase-FFCB2D.svg?&style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/)
 [![sql](https://img.shields.io/badge/sql-3E6E93.svg?&style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
+[![firebase](https://img.shields.io/badge/firebase-FFCB2D.svg?&style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/)
 [![mongodb](https://img.shields.io/badge/mongodb-00ed64.svg?&style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Neo4j](https://img.shields.io/static/v1?style=for-the-badge&message=Neo4j&color=4581C3&logo=Neo4j&logoColor=FFFFFF&label=)](https://neo4j.com/)
 
 #### Other: 
 [![node.js](https://img.shields.io/badge/node.js-%62B548.svg?&style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.dev)
