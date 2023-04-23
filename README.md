@@ -10,6 +10,7 @@ I am a Junior Developer from the Netherlands, Currently in my second year of Com
 [![vue.js](https://img.shields.io/badge/vue.js-327959.svg?&style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org)
 [![Angular](https://img.shields.io/static/v1?style=for-the-badge&message=Angular&color=DD0031&logo=Angular&logoColor=FFFFFF&label=)](https://angular.io/)
 [![aspdotnet](https://img.shields.io/badge/asp.net-4d29c9.svg?&style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/en-us/apps/aspnet)
+[![NestJS](https://img.shields.io/static/v1?style=for-the-badge&message=NestJS&color=E0234E&logo=NestJS&logoColor=FFFFFF&label=)](https://nestjs.com/)
 [![tailwindcss](https://img.shields.io/badge/tailwindcss-38bdf8.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 
 #### Databases:
