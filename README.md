@@ -18,10 +18,10 @@ I am a Junior Developer from the Netherlands, Currently in my second year of Com
 
 #### Other: 
 [![node.js](https://img.shields.io/badge/node.js-%62B548.svg?&style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.dev)
-![Nx](https://img.shields.io/static/v1?style=for-the-badge&message=Nx&color=143055&logo=Nx&logoColor=FFFFFF&label=)
+[![Nx](https://img.shields.io/static/v1?style=for-the-badge&message=Nx&color=143055&logo=Nx&logoColor=FFFFFF&label=)](https://nx.dev/)
 [![git](https://img.shields.io/badge/git-F44D27.svg?&style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 
 #### Environment:
 [![vscode](https://img.shields.io/badge/vscode-22A6F1.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com)
-![Visual Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio&color=5C2D91&logo=Visual+Studio&logoColor=FFFFFF&label=)
-![Android Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Android+Studio&color=222222&logo=Android+Studio&logoColor=3DDC84&label=)
+[![Visual Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio&color=5C2D91&logo=Visual+Studio&logoColor=FFFFFF&label=)](https://visualstudio.microsoft.com/)
+[![Android Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Android+Studio&color=222222&logo=Android+Studio&logoColor=3DDC84&label=)](https://developer.android.com/studio)
