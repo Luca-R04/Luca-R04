@@ -1,5 +1,5 @@
 # Hi there, my name is Luca
-I am a Junior Developer from the Netherlands, Currently in my second year of Computer Science at Avans Hogeschool Breda, The Netherlands. I am interested in the latest computer tech and like building computers, gaming and skiing.
+I am a Junior Developer from the Netherlands, Currently in my third year of Computer Science at Avans Hogeschool Breda, The Netherlands. I am interested in the latest computer tech and like building computers, gaming and skiing.
 
 ## 🔗 Contact me!
 [![linkedin](https://img.shields.io/badge/linkedin-0073B1.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luca-rinck-7a5344242/)
