@@ -12,7 +12,7 @@ I am a Junior Developer from the Netherlands, Currently in my third year of Comp
 [![aspdotnet](https://img.shields.io/badge/asp.net-4d29c9.svg?&style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/en-us/apps/aspnet)
 [![NestJS](https://img.shields.io/static/v1?style=for-the-badge&message=NestJS&color=E0234E&logo=NestJS&logoColor=FFFFFF&label=)](https://nestjs.com/)
 [![tailwindcss](https://img.shields.io/badge/tailwindcss-38bdf8.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-[![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](https://flask.palletsprojects.com/en/stable/)
+![Flask](https://img.shields.io/static/v1?style=for-the-badge&message=Flask&color=000000&logo=Flask&logoColor=FFFFFF&label=)(https://flask.palletsprojects.com/en/stable/)
 
 #### Databases:
 [![sql](https://img.shields.io/badge/sql-3E6E93.svg?&style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
@@ -29,4 +29,4 @@ I am a Junior Developer from the Netherlands, Currently in my third year of Comp
 [![vscode](https://img.shields.io/badge/vscode-22A6F1.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com)
 [![Visual Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio&color=5C2D91&logo=Visual+Studio&logoColor=FFFFFF&label=)](https://visualstudio.microsoft.com/)
 [![Android Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Android+Studio&color=222222&logo=Android+Studio&logoColor=3DDC84&label=)](https://developer.android.com/studio)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](https://www.docker.com/)
+![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)(https://www.docker.com/)
