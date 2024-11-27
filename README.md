@@ -13,6 +13,8 @@ I am a Junior Developer from the Netherlands, Currently in my third year of Comp
 [![NestJS](https://img.shields.io/static/v1?style=for-the-badge&message=NestJS&color=E0234E&logo=NestJS&logoColor=FFFFFF&label=)](https://nestjs.com/)
 [![tailwindcss](https://img.shields.io/badge/tailwindcss-38bdf8.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![Flask](https://img.shields.io/static/v1?style=for-the-badge&message=Flask&color=000000&logo=Flask&logoColor=FFFFFF&label=)](https://flask.palletsprojects.com/en/stable/)
+[![PyTorch](https://img.shields.io/static/v1?style=for-the-badge&message=PyTorch&color=EE4C2C&logo=PyTorch&logoColor=FFFFFF&label=)](https://pytorch.org/)
+[![Keras](https://img.shields.io/static/v1?style=for-the-badge&message=Keras&color=D00000&logo=Keras&logoColor=FFFFFF&label=)](https://keras.io/)
 
 #### Databases:
 [![sql](https://img.shields.io/badge/sql-3E6E93.svg?&style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
